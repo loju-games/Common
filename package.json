@@ -1,0 +1,19 @@
+{
+  "name": "com.lojugames.common",
+  "version": "1.0.0",
+  "displayName": "Loju Common",
+  "description": "Common scripts and utils",
+  "unity": "2018.3",
+  "dependencies": {
+  },
+ "keywords": [
+    "Loju",
+    "Common",
+    "Singleton"
+  ],
+  "author": {
+    "name": "Loju",
+    "email": "hello@loju.co.uk",
+    "url": "https://loju.co.uk"
+  } 
+}
